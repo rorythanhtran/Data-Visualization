@@ -1,8 +1,9 @@
 ## Data Visualization
 
-Data visualization is such a powerful tool to understand complex data and communicate efffectively. I'm learning how to use different libraries, tools, and techniques to create engaging and informative visualizations that make sense of data in a more intuitive way.
+Data visualization is a powerful tool to understand complex data and communicate efffectively. I'm learning how to use different libraries, tools, and techniques to create engaging and informative visualizations that make sense of data in a more intuitive way.
 
 I’m primarily using the following tools and libraries:
+
 - Python: My go-to language for most of my visualizations.
 - Matplotlib: Classic Python library for creating static, interactive, and animated plots.
 - Seaborn: Built on top of Matplotlib, I use this for more aesthetically pleasing visualizations.
