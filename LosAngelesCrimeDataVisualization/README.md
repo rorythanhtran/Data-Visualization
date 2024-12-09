@@ -8,3 +8,8 @@ This project analyzes and visualizes crime data in Los Angeles to identify trend
 - Interactive Maps - Geospatial heatmaps reveal crime hotspots across neighborhoods.
 - Category Breakdown
 - Demographic Analysis- Understand crime impacts across different age groups and genders.
+## Dataset
+Data sourced from the [Los Angeles Open Data Portal](https://data.lacity.org/)
+## Tools
+- Python: `pandas`, `matplotlib`, `plotly`, `folium`
+- Jupyter Notebook for analysis and visualization.
